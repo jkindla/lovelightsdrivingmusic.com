@@ -14,7 +14,7 @@ body {
   }
 
   .jumbotron {
-    background-image: url("pictures/LLD-00551.jpg");
+    background-image: url("./pictures/LLD-00551.jpg");
     background-size: 120%;
     background-color: black;
     
