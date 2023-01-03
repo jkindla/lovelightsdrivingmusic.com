@@ -100,7 +100,7 @@ section{
   padding:150px 0;
 }
 .hero-banner{
-background-image: url('/pictures/LLD-00404.jpg'); 
+background-image: url('/pictures/LLD-09804.jpg'); 
   background-size: cover;
   height:100vh;
   display:flex;
@@ -346,7 +346,7 @@ margin-left: -15px;
 
 /* Left contact page */
 .form-horizontal {
-/*float: left;*/
+/*float: left; */
 max-width: 400px;
 font-family: 'Lato';
 font-weight: 400;
@@ -388,6 +388,8 @@ transform: translate3d(0px, -29px, 0px);
 /* Begin Right Contact Page */
 .direct-contact-container {
 max-width: 400px;
+
+
 }
 
 /* Location, Phone, Email Section */
@@ -440,6 +442,7 @@ text-align: center;
 width: 100%;
 margin: 0 auto;
 padding: 0;
+
 }
 
 .social-media-list li a {
